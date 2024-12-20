@@ -7,7 +7,7 @@ which includes lots of information and examples on Message-based thinking in cod
 
 ### Templates
 
-Some of the main ideas in Practical Object Oriented Design are around using NotImplementedError to be thrown if the class does not define the behaviour when the class is 'initialized', see Interfaces below.
+One of the ideas in Practical Object Oriented Design are around using NotImplementedError to be thrown if the class does not define the behaviour when the class is 'initialized', see Interfaces below.
 
 ### Super
 
